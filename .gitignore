@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build and output artifacts
+out/
+remotion-tmp/
+.remotion/
+
+# Audio intermediate stems (public/audio/mix.wav is preserved)
+audio/mix.wav
+audio/stem_*.wav
+audio/__pycache__/
+audio/_cache/
+__pycache__/
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log

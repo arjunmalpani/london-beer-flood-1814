@@ -1,0 +1,2555 @@
+{
+  "total_seconds": 69.727,
+  "fps": 30,
+  "total_frames": 2092,
+  "lines": [
+    {
+      "line_index": 0,
+      "text": "Over a million pints of beer once tore through London in a fifteen-foot tidal wave.",
+      "start": 0.35,
+      "end": 4.133875
+    },
+    {
+      "line_index": 1,
+      "text": "It's 1814, and the Horse Shoe Brewery just finished its pride and joy: a fermentation tank the size of a three-story house.",
+      "start": 4.583875,
+      "end": 11.503041666666666
+    },
+    {
+      "line_index": 2,
+      "text": "Twenty-two feet of solid oak, clamped together by twenty-nine massive iron hoops.",
+      "start": 11.803041666666667,
+      "end": 15.604958333333334
+    },
+    {
+      "line_index": 3,
+      "text": "At four o'clock, a warehouse clerk notices a seven-hundred-pound iron ring has fallen off.",
+      "start": 16.054958333333335,
+      "end": 20.258000000000003
+    },
+    {
+      "line_index": 4,
+      "text": "His boss tells him not to worry\u2014rings slip all the time, just leave a note to fix it later.",
+      "start": 20.558000000000003,
+      "end": 24.84779166666667
+    },
+    {
+      "line_index": 5,
+      "text": "Inside, thirty-five hundred barrels of dark porter are fermenting, building up pressure like a giant shaken soda bottle.",
+      "start": 25.14779166666667,
+      "end": 30.350375000000003
+    },
+    {
+      "line_index": 6,
+      "text": "With one ring gone, the rest have to carry the load.",
+      "start": 30.650375000000004,
+      "end": 32.86920833333334
+    },
+    {
+      "line_index": 7,
+      "text": "They start creaking, stretching, and bulging.",
+      "start": 33.16920833333334,
+      "end": 34.997375000000005
+    },
+    {
+      "line_index": 8,
+      "text": "Then the bottom ring snaps like a cannon shot, the oak walls blow out, and the shockwave ruptures three more vats.",
+      "start": 35.44737500000001,
+      "end": 40.29908333333334
+    },
+    {
+      "line_index": 9,
+      "text": "A three-hundred-thousand-gallon tidal wave of beer blasts through the brick wall into the street.",
+      "start": 40.59908333333334,
+      "end": 44.455291666666675
+    },
+    {
+      "line_index": 10,
+      "text": "Luckily, the streets were flooded with free beer.",
+      "start": 44.90529166666668,
+      "end": 46.85091666666668
+    },
+    {
+      "line_index": 11,
+      "text": "Unluckily, the wave was fifteen feet tall and moving at thirty miles an hour.",
+      "start": 47.150916666666674,
+      "end": 50.57566666666668
+    },
+    {
+      "line_index": 12,
+      "text": "Locals rushed outside with pots, kettles, and teacups, scooping up pints straight from the road.",
+      "start": 51.02566666666668,
+      "end": 55.03216666666668
+    },
+    {
+      "line_index": 13,
+      "text": "In court, a judge officially ruled the flood an 'Act of God', and Parliament even gave the brewery a tax refund for the lost alcohol.",
+      "start": 55.33216666666668,
+      "end": 61.509250000000016
+    },
+    {
+      "line_index": 14,
+      "text": "It ended giant wooden vats forever, forcing breweries to switch to steel.",
+      "start": 61.80925000000001,
+      "end": 65.10529166666667
+    },
+    {
+      "line_index": 15,
+      "text": "So if you ever see a seven-hundred-pound metal ring pop off a barrel, maybe don't just leave a note.",
+      "start": 65.40529166666667,
+      "end": 69.42720833333334
+    }
+  ],
+  "words": [
+    {
+      "w": "Over",
+      "start": 0.35,
+      "end": 0.561,
+      "start_frame": 10,
+      "end_frame": 17,
+      "line": 0,
+      "s": 0.35,
+      "e": 0.561
+    },
+    {
+      "w": "a",
+      "start": 0.584,
+      "end": 0.689,
+      "start_frame": 18,
+      "end_frame": 21,
+      "line": 0,
+      "s": 0.584,
+      "e": 0.689
+    },
+    {
+      "w": "million",
+      "start": 0.701,
+      "end": 1.017,
+      "start_frame": 21,
+      "end_frame": 31,
+      "line": 0,
+      "s": 0.701,
+      "e": 1.017
+    },
+    {
+      "w": "pints",
+      "start": 1.052,
+      "end": 1.298,
+      "start_frame": 32,
+      "end_frame": 39,
+      "line": 0,
+      "s": 1.052,
+      "e": 1.298
+    },
+    {
+      "w": "of",
+      "start": 1.325,
+      "end": 1.466,
+      "start_frame": 40,
+      "end_frame": 44,
+      "line": 0,
+      "s": 1.325,
+      "e": 1.466
+    },
+    {
+      "w": "beer",
+      "start": 1.481,
+      "end": 1.692,
+      "start_frame": 44,
+      "end_frame": 51,
+      "line": 0,
+      "s": 1.481,
+      "e": 1.692
+    },
+    {
+      "w": "once",
+      "start": 1.715,
+      "end": 1.926,
+      "start_frame": 51,
+      "end_frame": 58,
+      "line": 0,
+      "s": 1.715,
+      "e": 1.926
+    },
+    {
+      "w": "tore",
+      "start": 1.949,
+      "end": 2.16,
+      "start_frame": 58,
+      "end_frame": 65,
+      "line": 0,
+      "s": 1.949,
+      "e": 2.16
+    },
+    {
+      "w": "through",
+      "start": 2.183,
+      "end": 2.499,
+      "start_frame": 66,
+      "end_frame": 75,
+      "line": 0,
+      "s": 2.183,
+      "e": 2.499
+    },
+    {
+      "w": "London",
+      "start": 2.535,
+      "end": 2.815,
+      "start_frame": 76,
+      "end_frame": 84,
+      "line": 0,
+      "s": 2.535,
+      "e": 2.815
+    },
+    {
+      "w": "in",
+      "start": 2.847,
+      "end": 2.987,
+      "start_frame": 85,
+      "end_frame": 90,
+      "line": 0,
+      "s": 2.847,
+      "e": 2.987
+    },
+    {
+      "w": "a",
+      "start": 3.003,
+      "end": 3.108,
+      "start_frame": 90,
+      "end_frame": 93,
+      "line": 0,
+      "s": 3.003,
+      "e": 3.108
+    },
+    {
+      "w": "fifteen-foot",
+      "start": 3.12,
+      "end": 3.576,
+      "start_frame": 94,
+      "end_frame": 107,
+      "line": 0,
+      "s": 3.12,
+      "e": 3.576
+    },
+    {
+      "w": "tidal",
+      "start": 3.627,
+      "end": 3.873,
+      "start_frame": 109,
+      "end_frame": 116,
+      "line": 0,
+      "s": 3.627,
+      "e": 3.873
+    },
+    {
+      "w": "wave.",
+      "start": 3.9,
+      "end": 4.11,
+      "start_frame": 117,
+      "end_frame": 123,
+      "line": 0,
+      "s": 3.9,
+      "e": 4.11
+    },
+    {
+      "w": "It's",
+      "start": 4.584,
+      "end": 4.796,
+      "start_frame": 138,
+      "end_frame": 144,
+      "line": 1,
+      "s": 4.584,
+      "e": 4.796
+    },
+    {
+      "w": "1814,",
+      "start": 4.82,
+      "end": 5.168,
+      "start_frame": 145,
+      "end_frame": 155,
+      "line": 1,
+      "s": 4.82,
+      "e": 5.168
+    },
+    {
+      "w": "and",
+      "start": 5.206,
+      "end": 5.419,
+      "start_frame": 156,
+      "end_frame": 163,
+      "line": 1,
+      "s": 5.206,
+      "e": 5.419
+    },
+    {
+      "w": "the",
+      "start": 5.442,
+      "end": 5.655,
+      "start_frame": 163,
+      "end_frame": 170,
+      "line": 1,
+      "s": 5.442,
+      "e": 5.655
+    },
+    {
+      "w": "Horse",
+      "start": 5.678,
+      "end": 5.975,
+      "start_frame": 170,
+      "end_frame": 179,
+      "line": 1,
+      "s": 5.678,
+      "e": 5.975
+    },
+    {
+      "w": "Shoe",
+      "start": 6.008,
+      "end": 6.263,
+      "start_frame": 180,
+      "end_frame": 188,
+      "line": 1,
+      "s": 6.008,
+      "e": 6.263
+    },
+    {
+      "w": "Brewery",
+      "start": 6.291,
+      "end": 6.673,
+      "start_frame": 189,
+      "end_frame": 200,
+      "line": 1,
+      "s": 6.291,
+      "e": 6.673
+    },
+    {
+      "w": "just",
+      "start": 6.716,
+      "end": 6.97,
+      "start_frame": 201,
+      "end_frame": 209,
+      "line": 1,
+      "s": 6.716,
+      "e": 6.97
+    },
+    {
+      "w": "finished",
+      "start": 6.999,
+      "end": 7.423,
+      "start_frame": 210,
+      "end_frame": 223,
+      "line": 1,
+      "s": 6.999,
+      "e": 7.423
+    },
+    {
+      "w": "its",
+      "start": 7.47,
+      "end": 7.683,
+      "start_frame": 224,
+      "end_frame": 230,
+      "line": 1,
+      "s": 7.47,
+      "e": 7.683
+    },
+    {
+      "w": "pride",
+      "start": 7.706,
+      "end": 8.003,
+      "start_frame": 231,
+      "end_frame": 240,
+      "line": 1,
+      "s": 7.706,
+      "e": 8.003
+    },
+    {
+      "w": "and",
+      "start": 8.036,
+      "end": 8.249,
+      "start_frame": 241,
+      "end_frame": 247,
+      "line": 1,
+      "s": 8.036,
+      "e": 8.249
+    },
+    {
+      "w": "joy:",
+      "start": 8.272,
+      "end": 8.633,
+      "start_frame": 248,
+      "end_frame": 259,
+      "line": 1,
+      "s": 8.272,
+      "e": 8.633
+    },
+    {
+      "w": "a",
+      "start": 8.673,
+      "end": 8.8,
+      "start_frame": 260,
+      "end_frame": 264,
+      "line": 1,
+      "s": 8.673,
+      "e": 8.8
+    },
+    {
+      "w": "fermentation",
+      "start": 8.815,
+      "end": 9.409,
+      "start_frame": 264,
+      "end_frame": 282,
+      "line": 1,
+      "s": 8.815,
+      "e": 9.409
+    },
+    {
+      "w": "tank",
+      "start": 9.475,
+      "end": 9.73,
+      "start_frame": 284,
+      "end_frame": 292,
+      "line": 1,
+      "s": 9.475,
+      "e": 9.73
+    },
+    {
+      "w": "the",
+      "start": 9.758,
+      "end": 9.97,
+      "start_frame": 293,
+      "end_frame": 299,
+      "line": 1,
+      "s": 9.758,
+      "e": 9.97
+    },
+    {
+      "w": "size",
+      "start": 9.994,
+      "end": 10.248,
+      "start_frame": 300,
+      "end_frame": 307,
+      "line": 1,
+      "s": 9.994,
+      "e": 10.248
+    },
+    {
+      "w": "of",
+      "start": 10.277,
+      "end": 10.447,
+      "start_frame": 308,
+      "end_frame": 313,
+      "line": 1,
+      "s": 10.277,
+      "e": 10.447
+    },
+    {
+      "w": "a",
+      "start": 10.465,
+      "end": 10.593,
+      "start_frame": 314,
+      "end_frame": 318,
+      "line": 1,
+      "s": 10.465,
+      "e": 10.593
+    },
+    {
+      "w": "three-story",
+      "start": 10.607,
+      "end": 11.116,
+      "start_frame": 318,
+      "end_frame": 333,
+      "line": 1,
+      "s": 10.607,
+      "e": 11.116
+    },
+    {
+      "w": "house.",
+      "start": 11.173,
+      "end": 11.47,
+      "start_frame": 335,
+      "end_frame": 344,
+      "line": 1,
+      "s": 11.173,
+      "e": 11.47
+    },
+    {
+      "w": "Twenty-two",
+      "start": 11.803,
+      "end": 12.211,
+      "start_frame": 354,
+      "end_frame": 366,
+      "line": 2,
+      "s": 11.803,
+      "e": 12.211
+    },
+    {
+      "w": "feet",
+      "start": 12.257,
+      "end": 12.479,
+      "start_frame": 368,
+      "end_frame": 374,
+      "line": 2,
+      "s": 12.257,
+      "e": 12.479
+    },
+    {
+      "w": "of",
+      "start": 12.504,
+      "end": 12.652,
+      "start_frame": 375,
+      "end_frame": 380,
+      "line": 2,
+      "s": 12.504,
+      "e": 12.652
+    },
+    {
+      "w": "solid",
+      "start": 12.669,
+      "end": 12.929,
+      "start_frame": 380,
+      "end_frame": 388,
+      "line": 2,
+      "s": 12.669,
+      "e": 12.929
+    },
+    {
+      "w": "oak,",
+      "start": 12.958,
+      "end": 13.225,
+      "start_frame": 389,
+      "end_frame": 397,
+      "line": 2,
+      "s": 12.958,
+      "e": 13.225
+    },
+    {
+      "w": "clamped",
+      "start": 13.255,
+      "end": 13.589,
+      "start_frame": 398,
+      "end_frame": 408,
+      "line": 2,
+      "s": 13.255,
+      "e": 13.589
+    },
+    {
+      "w": "together",
+      "start": 13.626,
+      "end": 13.997,
+      "start_frame": 409,
+      "end_frame": 420,
+      "line": 2,
+      "s": 13.626,
+      "e": 13.997
+    },
+    {
+      "w": "by",
+      "start": 14.038,
+      "end": 14.186,
+      "start_frame": 421,
+      "end_frame": 426,
+      "line": 2,
+      "s": 14.038,
+      "e": 14.186
+    },
+    {
+      "w": "twenty-nine",
+      "start": 14.203,
+      "end": 14.648,
+      "start_frame": 426,
+      "end_frame": 439,
+      "line": 2,
+      "s": 14.203,
+      "e": 14.648
+    },
+    {
+      "w": "massive",
+      "start": 14.698,
+      "end": 15.032,
+      "start_frame": 441,
+      "end_frame": 451,
+      "line": 2,
+      "s": 14.698,
+      "e": 15.032
+    },
+    {
+      "w": "iron",
+      "start": 15.069,
+      "end": 15.292,
+      "start_frame": 452,
+      "end_frame": 459,
+      "line": 2,
+      "s": 15.069,
+      "e": 15.292
+    },
+    {
+      "w": "hoops.",
+      "start": 15.316,
+      "end": 15.576,
+      "start_frame": 459,
+      "end_frame": 467,
+      "line": 2,
+      "s": 15.316,
+      "e": 15.576
+    },
+    {
+      "w": "At",
+      "start": 16.055,
+      "end": 16.203,
+      "start_frame": 482,
+      "end_frame": 486,
+      "line": 3,
+      "s": 16.055,
+      "e": 16.203
+    },
+    {
+      "w": "four",
+      "start": 16.219,
+      "end": 16.442,
+      "start_frame": 487,
+      "end_frame": 493,
+      "line": 3,
+      "s": 16.219,
+      "e": 16.442
+    },
+    {
+      "w": "o'clock,",
+      "start": 16.466,
+      "end": 16.844,
+      "start_frame": 494,
+      "end_frame": 505,
+      "line": 3,
+      "s": 16.466,
+      "e": 16.844
+    },
+    {
+      "w": "a",
+      "start": 16.886,
+      "end": 16.997,
+      "start_frame": 507,
+      "end_frame": 510,
+      "line": 3,
+      "s": 16.886,
+      "e": 16.997
+    },
+    {
+      "w": "warehouse",
+      "start": 17.009,
+      "end": 17.416,
+      "start_frame": 510,
+      "end_frame": 522,
+      "line": 3,
+      "s": 17.009,
+      "e": 17.416
+    },
+    {
+      "w": "clerk",
+      "start": 17.461,
+      "end": 17.721,
+      "start_frame": 524,
+      "end_frame": 532,
+      "line": 3,
+      "s": 17.461,
+      "e": 17.721
+    },
+    {
+      "w": "notices",
+      "start": 17.749,
+      "end": 18.082,
+      "start_frame": 532,
+      "end_frame": 542,
+      "line": 3,
+      "s": 17.749,
+      "e": 18.082
+    },
+    {
+      "w": "a",
+      "start": 18.119,
+      "end": 18.231,
+      "start_frame": 544,
+      "end_frame": 547,
+      "line": 3,
+      "s": 18.119,
+      "e": 18.231
+    },
+    {
+      "w": "seven-hundred-pound",
+      "start": 18.243,
+      "end": 18.946,
+      "start_frame": 547,
+      "end_frame": 568,
+      "line": 3,
+      "s": 18.243,
+      "e": 18.946
+    },
+    {
+      "w": "iron",
+      "start": 19.024,
+      "end": 19.246,
+      "start_frame": 571,
+      "end_frame": 577,
+      "line": 3,
+      "s": 19.024,
+      "e": 19.246
+    },
+    {
+      "w": "ring",
+      "start": 19.271,
+      "end": 19.493,
+      "start_frame": 578,
+      "end_frame": 585,
+      "line": 3,
+      "s": 19.271,
+      "e": 19.493
+    },
+    {
+      "w": "has",
+      "start": 19.518,
+      "end": 19.703,
+      "start_frame": 586,
+      "end_frame": 591,
+      "line": 3,
+      "s": 19.518,
+      "e": 19.703
+    },
+    {
+      "w": "fallen",
+      "start": 19.723,
+      "end": 20.019,
+      "start_frame": 592,
+      "end_frame": 601,
+      "line": 3,
+      "s": 19.723,
+      "e": 20.019
+    },
+    {
+      "w": "off.",
+      "start": 20.052,
+      "end": 20.237,
+      "start_frame": 602,
+      "end_frame": 607,
+      "line": 3,
+      "s": 20.052,
+      "e": 20.237
+    },
+    {
+      "w": "His",
+      "start": 20.558,
+      "end": 20.733,
+      "start_frame": 617,
+      "end_frame": 622,
+      "line": 4,
+      "s": 20.558,
+      "e": 20.733
+    },
+    {
+      "w": "boss",
+      "start": 20.753,
+      "end": 20.963,
+      "start_frame": 623,
+      "end_frame": 629,
+      "line": 4,
+      "s": 20.753,
+      "e": 20.963
+    },
+    {
+      "w": "tells",
+      "start": 20.986,
+      "end": 21.231,
+      "start_frame": 630,
+      "end_frame": 637,
+      "line": 4,
+      "s": 20.986,
+      "e": 21.231
+    },
+    {
+      "w": "him",
+      "start": 21.259,
+      "end": 21.434,
+      "start_frame": 638,
+      "end_frame": 643,
+      "line": 4,
+      "s": 21.259,
+      "e": 21.434
+    },
+    {
+      "w": "not",
+      "start": 21.453,
+      "end": 21.629,
+      "start_frame": 644,
+      "end_frame": 649,
+      "line": 4,
+      "s": 21.453,
+      "e": 21.629
+    },
+    {
+      "w": "to",
+      "start": 21.648,
+      "end": 21.788,
+      "start_frame": 649,
+      "end_frame": 654,
+      "line": 4,
+      "s": 21.648,
+      "e": 21.788
+    },
+    {
+      "w": "worry\u2014rings",
+      "start": 21.804,
+      "end": 22.224,
+      "start_frame": 654,
+      "end_frame": 667,
+      "line": 4,
+      "s": 21.804,
+      "e": 22.224
+    },
+    {
+      "w": "slip",
+      "start": 22.271,
+      "end": 22.481,
+      "start_frame": 668,
+      "end_frame": 674,
+      "line": 4,
+      "s": 22.271,
+      "e": 22.481
+    },
+    {
+      "w": "all",
+      "start": 22.504,
+      "end": 22.68,
+      "start_frame": 675,
+      "end_frame": 680,
+      "line": 4,
+      "s": 22.504,
+      "e": 22.68
+    },
+    {
+      "w": "the",
+      "start": 22.699,
+      "end": 22.874,
+      "start_frame": 681,
+      "end_frame": 686,
+      "line": 4,
+      "s": 22.699,
+      "e": 22.874
+    },
+    {
+      "w": "time,",
+      "start": 22.894,
+      "end": 23.181,
+      "start_frame": 687,
+      "end_frame": 695,
+      "line": 4,
+      "s": 22.894,
+      "e": 23.181
+    },
+    {
+      "w": "just",
+      "start": 23.213,
+      "end": 23.423,
+      "start_frame": 696,
+      "end_frame": 703,
+      "line": 4,
+      "s": 23.213,
+      "e": 23.423
+    },
+    {
+      "w": "leave",
+      "start": 23.446,
+      "end": 23.692,
+      "start_frame": 703,
+      "end_frame": 711,
+      "line": 4,
+      "s": 23.446,
+      "e": 23.692
+    },
+    {
+      "w": "a",
+      "start": 23.719,
+      "end": 23.824,
+      "start_frame": 712,
+      "end_frame": 715,
+      "line": 4,
+      "s": 23.719,
+      "e": 23.824
+    },
+    {
+      "w": "note",
+      "start": 23.836,
+      "end": 24.046,
+      "start_frame": 715,
+      "end_frame": 721,
+      "line": 4,
+      "s": 23.836,
+      "e": 24.046
+    },
+    {
+      "w": "to",
+      "start": 24.069,
+      "end": 24.209,
+      "start_frame": 722,
+      "end_frame": 726,
+      "line": 4,
+      "s": 24.069,
+      "e": 24.209
+    },
+    {
+      "w": "fix",
+      "start": 24.225,
+      "end": 24.4,
+      "start_frame": 727,
+      "end_frame": 732,
+      "line": 4,
+      "s": 24.225,
+      "e": 24.4
+    },
+    {
+      "w": "it",
+      "start": 24.42,
+      "end": 24.56,
+      "start_frame": 733,
+      "end_frame": 737,
+      "line": 4,
+      "s": 24.42,
+      "e": 24.56
+    },
+    {
+      "w": "later.",
+      "start": 24.575,
+      "end": 24.821,
+      "start_frame": 737,
+      "end_frame": 745,
+      "line": 4,
+      "s": 24.575,
+      "e": 24.821
+    },
+    {
+      "w": "Inside,",
+      "start": 25.148,
+      "end": 25.49,
+      "start_frame": 754,
+      "end_frame": 765,
+      "line": 5,
+      "s": 25.148,
+      "e": 25.49
+    },
+    {
+      "w": "thirty-five",
+      "start": 25.528,
+      "end": 25.932,
+      "start_frame": 766,
+      "end_frame": 778,
+      "line": 5,
+      "s": 25.528,
+      "e": 25.932
+    },
+    {
+      "w": "hundred",
+      "start": 25.976,
+      "end": 26.279,
+      "start_frame": 779,
+      "end_frame": 788,
+      "line": 5,
+      "s": 25.976,
+      "e": 26.279
+    },
+    {
+      "w": "barrels",
+      "start": 26.312,
+      "end": 26.615,
+      "start_frame": 789,
+      "end_frame": 798,
+      "line": 5,
+      "s": 26.312,
+      "e": 26.615
+    },
+    {
+      "w": "of",
+      "start": 26.648,
+      "end": 26.782,
+      "start_frame": 799,
+      "end_frame": 803,
+      "line": 5,
+      "s": 26.648,
+      "e": 26.782
+    },
+    {
+      "w": "dark",
+      "start": 26.797,
+      "end": 26.999,
+      "start_frame": 804,
+      "end_frame": 810,
+      "line": 5,
+      "s": 26.797,
+      "e": 26.999
+    },
+    {
+      "w": "porter",
+      "start": 27.021,
+      "end": 27.29,
+      "start_frame": 811,
+      "end_frame": 819,
+      "line": 5,
+      "s": 27.021,
+      "e": 27.29
+    },
+    {
+      "w": "are",
+      "start": 27.32,
+      "end": 27.488,
+      "start_frame": 820,
+      "end_frame": 825,
+      "line": 5,
+      "s": 27.32,
+      "e": 27.488
+    },
+    {
+      "w": "fermenting,",
+      "start": 27.506,
+      "end": 27.983,
+      "start_frame": 825,
+      "end_frame": 840,
+      "line": 5,
+      "s": 27.506,
+      "e": 27.983
+    },
+    {
+      "w": "building",
+      "start": 28.036,
+      "end": 28.372,
+      "start_frame": 841,
+      "end_frame": 851,
+      "line": 5,
+      "s": 28.036,
+      "e": 28.372
+    },
+    {
+      "w": "up",
+      "start": 28.41,
+      "end": 28.544,
+      "start_frame": 852,
+      "end_frame": 856,
+      "line": 5,
+      "s": 28.41,
+      "e": 28.544
+    },
+    {
+      "w": "pressure",
+      "start": 28.559,
+      "end": 28.895,
+      "start_frame": 857,
+      "end_frame": 867,
+      "line": 5,
+      "s": 28.559,
+      "e": 28.895
+    },
+    {
+      "w": "like",
+      "start": 28.932,
+      "end": 29.134,
+      "start_frame": 868,
+      "end_frame": 874,
+      "line": 5,
+      "s": 28.932,
+      "e": 29.134
+    },
+    {
+      "w": "a",
+      "start": 29.156,
+      "end": 29.257,
+      "start_frame": 875,
+      "end_frame": 878,
+      "line": 5,
+      "s": 29.156,
+      "e": 29.257
+    },
+    {
+      "w": "giant",
+      "start": 29.268,
+      "end": 29.503,
+      "start_frame": 878,
+      "end_frame": 885,
+      "line": 5,
+      "s": 29.268,
+      "e": 29.503
+    },
+    {
+      "w": "shaken",
+      "start": 29.529,
+      "end": 29.798,
+      "start_frame": 886,
+      "end_frame": 894,
+      "line": 5,
+      "s": 29.529,
+      "e": 29.798
+    },
+    {
+      "w": "soda",
+      "start": 29.828,
+      "end": 30.029,
+      "start_frame": 895,
+      "end_frame": 901,
+      "line": 5,
+      "s": 29.828,
+      "e": 30.029
+    },
+    {
+      "w": "bottle.",
+      "start": 30.052,
+      "end": 30.321,
+      "start_frame": 902,
+      "end_frame": 910,
+      "line": 5,
+      "s": 30.052,
+      "e": 30.321
+    },
+    {
+      "w": "With",
+      "start": 30.65,
+      "end": 30.837,
+      "start_frame": 920,
+      "end_frame": 925,
+      "line": 6,
+      "s": 30.65,
+      "e": 30.837
+    },
+    {
+      "w": "one",
+      "start": 30.858,
+      "end": 31.013,
+      "start_frame": 926,
+      "end_frame": 930,
+      "line": 6,
+      "s": 30.858,
+      "e": 31.013
+    },
+    {
+      "w": "ring",
+      "start": 31.031,
+      "end": 31.217,
+      "start_frame": 931,
+      "end_frame": 937,
+      "line": 6,
+      "s": 31.031,
+      "e": 31.217
+    },
+    {
+      "w": "gone,",
+      "start": 31.238,
+      "end": 31.493,
+      "start_frame": 937,
+      "end_frame": 945,
+      "line": 6,
+      "s": 31.238,
+      "e": 31.493
+    },
+    {
+      "w": "the",
+      "start": 31.521,
+      "end": 31.677,
+      "start_frame": 946,
+      "end_frame": 950,
+      "line": 6,
+      "s": 31.521,
+      "e": 31.677
+    },
+    {
+      "w": "rest",
+      "start": 31.694,
+      "end": 31.881,
+      "start_frame": 951,
+      "end_frame": 956,
+      "line": 6,
+      "s": 31.694,
+      "e": 31.881
+    },
+    {
+      "w": "have",
+      "start": 31.901,
+      "end": 32.088,
+      "start_frame": 957,
+      "end_frame": 963,
+      "line": 6,
+      "s": 31.901,
+      "e": 32.088
+    },
+    {
+      "w": "to",
+      "start": 32.109,
+      "end": 32.233,
+      "start_frame": 963,
+      "end_frame": 967,
+      "line": 6,
+      "s": 32.109,
+      "e": 32.233
+    },
+    {
+      "w": "carry",
+      "start": 32.247,
+      "end": 32.465,
+      "start_frame": 967,
+      "end_frame": 974,
+      "line": 6,
+      "s": 32.247,
+      "e": 32.465
+    },
+    {
+      "w": "the",
+      "start": 32.489,
+      "end": 32.645,
+      "start_frame": 975,
+      "end_frame": 979,
+      "line": 6,
+      "s": 32.489,
+      "e": 32.645
+    },
+    {
+      "w": "load.",
+      "start": 32.662,
+      "end": 32.848,
+      "start_frame": 980,
+      "end_frame": 985,
+      "line": 6,
+      "s": 32.662,
+      "e": 32.848
+    },
+    {
+      "w": "They",
+      "start": 33.169,
+      "end": 33.354,
+      "start_frame": 995,
+      "end_frame": 1001,
+      "line": 7,
+      "s": 33.169,
+      "e": 33.354
+    },
+    {
+      "w": "start",
+      "start": 33.375,
+      "end": 33.59,
+      "start_frame": 1001,
+      "end_frame": 1008,
+      "line": 7,
+      "s": 33.375,
+      "e": 33.59
+    },
+    {
+      "w": "creaking,",
+      "start": 33.614,
+      "end": 33.99,
+      "start_frame": 1008,
+      "end_frame": 1020,
+      "line": 7,
+      "s": 33.614,
+      "e": 33.99
+    },
+    {
+      "w": "stretching,",
+      "start": 34.032,
+      "end": 34.469,
+      "start_frame": 1021,
+      "end_frame": 1034,
+      "line": 7,
+      "s": 34.032,
+      "e": 34.469
+    },
+    {
+      "w": "and",
+      "start": 34.518,
+      "end": 34.672,
+      "start_frame": 1036,
+      "end_frame": 1040,
+      "line": 7,
+      "s": 34.518,
+      "e": 34.672
+    },
+    {
+      "w": "bulging.",
+      "start": 34.689,
+      "end": 34.967,
+      "start_frame": 1041,
+      "end_frame": 1049,
+      "line": 7,
+      "s": 34.689,
+      "e": 34.967
+    },
+    {
+      "w": "Then",
+      "start": 35.447,
+      "end": 35.638,
+      "start_frame": 1063,
+      "end_frame": 1069,
+      "line": 8,
+      "s": 35.447,
+      "e": 35.638
+    },
+    {
+      "w": "the",
+      "start": 35.659,
+      "end": 35.818,
+      "start_frame": 1070,
+      "end_frame": 1075,
+      "line": 8,
+      "s": 35.659,
+      "e": 35.818
+    },
+    {
+      "w": "bottom",
+      "start": 35.836,
+      "end": 36.09,
+      "start_frame": 1075,
+      "end_frame": 1083,
+      "line": 8,
+      "s": 35.836,
+      "e": 36.09
+    },
+    {
+      "w": "ring",
+      "start": 36.118,
+      "end": 36.309,
+      "start_frame": 1084,
+      "end_frame": 1089,
+      "line": 8,
+      "s": 36.118,
+      "e": 36.309
+    },
+    {
+      "w": "snaps",
+      "start": 36.33,
+      "end": 36.553,
+      "start_frame": 1090,
+      "end_frame": 1097,
+      "line": 8,
+      "s": 36.33,
+      "e": 36.553
+    },
+    {
+      "w": "like",
+      "start": 36.577,
+      "end": 36.768,
+      "start_frame": 1097,
+      "end_frame": 1103,
+      "line": 8,
+      "s": 36.577,
+      "e": 36.768
+    },
+    {
+      "w": "a",
+      "start": 36.789,
+      "end": 36.885,
+      "start_frame": 1104,
+      "end_frame": 1107,
+      "line": 8,
+      "s": 36.789,
+      "e": 36.885
+    },
+    {
+      "w": "cannon",
+      "start": 36.895,
+      "end": 37.149,
+      "start_frame": 1107,
+      "end_frame": 1114,
+      "line": 8,
+      "s": 36.895,
+      "e": 37.149
+    },
+    {
+      "w": "shot,",
+      "start": 37.178,
+      "end": 37.438,
+      "start_frame": 1115,
+      "end_frame": 1123,
+      "line": 8,
+      "s": 37.178,
+      "e": 37.438
+    },
+    {
+      "w": "the",
+      "start": 37.467,
+      "end": 37.626,
+      "start_frame": 1124,
+      "end_frame": 1129,
+      "line": 8,
+      "s": 37.467,
+      "e": 37.626
+    },
+    {
+      "w": "oak",
+      "start": 37.644,
+      "end": 37.803,
+      "start_frame": 1129,
+      "end_frame": 1134,
+      "line": 8,
+      "s": 37.644,
+      "e": 37.803
+    },
+    {
+      "w": "walls",
+      "start": 37.82,
+      "end": 38.043,
+      "start_frame": 1135,
+      "end_frame": 1141,
+      "line": 8,
+      "s": 37.82,
+      "e": 38.043
+    },
+    {
+      "w": "blow",
+      "start": 38.067,
+      "end": 38.258,
+      "start_frame": 1142,
+      "end_frame": 1148,
+      "line": 8,
+      "s": 38.067,
+      "e": 38.258
+    },
+    {
+      "w": "out,",
+      "start": 38.279,
+      "end": 38.508,
+      "start_frame": 1148,
+      "end_frame": 1155,
+      "line": 8,
+      "s": 38.279,
+      "e": 38.508
+    },
+    {
+      "w": "and",
+      "start": 38.534,
+      "end": 38.692,
+      "start_frame": 1156,
+      "end_frame": 1161,
+      "line": 8,
+      "s": 38.534,
+      "e": 38.692
+    },
+    {
+      "w": "the",
+      "start": 38.71,
+      "end": 38.869,
+      "start_frame": 1161,
+      "end_frame": 1166,
+      "line": 8,
+      "s": 38.71,
+      "e": 38.869
+    },
+    {
+      "w": "shockwave",
+      "start": 38.887,
+      "end": 39.236,
+      "start_frame": 1167,
+      "end_frame": 1177,
+      "line": 8,
+      "s": 38.887,
+      "e": 39.236
+    },
+    {
+      "w": "ruptures",
+      "start": 39.275,
+      "end": 39.593,
+      "start_frame": 1178,
+      "end_frame": 1188,
+      "line": 8,
+      "s": 39.275,
+      "e": 39.593
+    },
+    {
+      "w": "three",
+      "start": 39.628,
+      "end": 39.851,
+      "start_frame": 1189,
+      "end_frame": 1196,
+      "line": 8,
+      "s": 39.628,
+      "e": 39.851
+    },
+    {
+      "w": "more",
+      "start": 39.875,
+      "end": 40.066,
+      "start_frame": 1196,
+      "end_frame": 1202,
+      "line": 8,
+      "s": 39.875,
+      "e": 40.066
+    },
+    {
+      "w": "vats.",
+      "start": 40.087,
+      "end": 40.278,
+      "start_frame": 1203,
+      "end_frame": 1208,
+      "line": 8,
+      "s": 40.087,
+      "e": 40.278
+    },
+    {
+      "w": "A",
+      "start": 40.599,
+      "end": 40.695,
+      "start_frame": 1218,
+      "end_frame": 1221,
+      "line": 9,
+      "s": 40.599,
+      "e": 40.695
+    },
+    {
+      "w": "three-hundred-thousand-gallon",
+      "start": 40.706,
+      "end": 41.606,
+      "start_frame": 1221,
+      "end_frame": 1248,
+      "line": 9,
+      "s": 40.706,
+      "e": 41.606
+    },
+    {
+      "w": "tidal",
+      "start": 41.706,
+      "end": 41.931,
+      "start_frame": 1251,
+      "end_frame": 1258,
+      "line": 9,
+      "s": 41.706,
+      "e": 41.931
+    },
+    {
+      "w": "wave",
+      "start": 41.956,
+      "end": 42.149,
+      "start_frame": 1259,
+      "end_frame": 1264,
+      "line": 9,
+      "s": 41.956,
+      "e": 42.149
+    },
+    {
+      "w": "of",
+      "start": 42.17,
+      "end": 42.299,
+      "start_frame": 1265,
+      "end_frame": 1269,
+      "line": 9,
+      "s": 42.17,
+      "e": 42.299
+    },
+    {
+      "w": "beer",
+      "start": 42.313,
+      "end": 42.506,
+      "start_frame": 1269,
+      "end_frame": 1275,
+      "line": 9,
+      "s": 42.313,
+      "e": 42.506
+    },
+    {
+      "w": "blasts",
+      "start": 42.527,
+      "end": 42.784,
+      "start_frame": 1276,
+      "end_frame": 1284,
+      "line": 9,
+      "s": 42.527,
+      "e": 42.784
+    },
+    {
+      "w": "through",
+      "start": 42.813,
+      "end": 43.102,
+      "start_frame": 1284,
+      "end_frame": 1293,
+      "line": 9,
+      "s": 42.813,
+      "e": 43.102
+    },
+    {
+      "w": "the",
+      "start": 43.134,
+      "end": 43.295,
+      "start_frame": 1294,
+      "end_frame": 1299,
+      "line": 9,
+      "s": 43.134,
+      "e": 43.295
+    },
+    {
+      "w": "brick",
+      "start": 43.313,
+      "end": 43.538,
+      "start_frame": 1299,
+      "end_frame": 1306,
+      "line": 9,
+      "s": 43.313,
+      "e": 43.538
+    },
+    {
+      "w": "wall",
+      "start": 43.563,
+      "end": 43.755,
+      "start_frame": 1307,
+      "end_frame": 1313,
+      "line": 9,
+      "s": 43.563,
+      "e": 43.755
+    },
+    {
+      "w": "into",
+      "start": 43.777,
+      "end": 43.97,
+      "start_frame": 1313,
+      "end_frame": 1319,
+      "line": 9,
+      "s": 43.777,
+      "e": 43.97
+    },
+    {
+      "w": "the",
+      "start": 43.991,
+      "end": 44.152,
+      "start_frame": 1320,
+      "end_frame": 1325,
+      "line": 9,
+      "s": 43.991,
+      "e": 44.152
+    },
+    {
+      "w": "street.",
+      "start": 44.17,
+      "end": 44.427,
+      "start_frame": 1325,
+      "end_frame": 1333,
+      "line": 9,
+      "s": 44.17,
+      "e": 44.427
+    },
+    {
+      "w": "Luckily,",
+      "start": 44.905,
+      "end": 45.242,
+      "start_frame": 1347,
+      "end_frame": 1357,
+      "line": 10,
+      "s": 44.905,
+      "e": 45.242
+    },
+    {
+      "w": "the",
+      "start": 45.28,
+      "end": 45.43,
+      "start_frame": 1358,
+      "end_frame": 1363,
+      "line": 10,
+      "s": 45.28,
+      "e": 45.43
+    },
+    {
+      "w": "streets",
+      "start": 45.447,
+      "end": 45.718,
+      "start_frame": 1363,
+      "end_frame": 1372,
+      "line": 10,
+      "s": 45.447,
+      "e": 45.718
+    },
+    {
+      "w": "were",
+      "start": 45.748,
+      "end": 45.928,
+      "start_frame": 1372,
+      "end_frame": 1378,
+      "line": 10,
+      "s": 45.748,
+      "e": 45.928
+    },
+    {
+      "w": "flooded",
+      "start": 45.948,
+      "end": 46.219,
+      "start_frame": 1378,
+      "end_frame": 1387,
+      "line": 10,
+      "s": 45.948,
+      "e": 46.219
+    },
+    {
+      "w": "with",
+      "start": 46.249,
+      "end": 46.43,
+      "start_frame": 1387,
+      "end_frame": 1393,
+      "line": 10,
+      "s": 46.249,
+      "e": 46.43
+    },
+    {
+      "w": "free",
+      "start": 46.45,
+      "end": 46.63,
+      "start_frame": 1393,
+      "end_frame": 1399,
+      "line": 10,
+      "s": 46.45,
+      "e": 46.63
+    },
+    {
+      "w": "beer.",
+      "start": 46.65,
+      "end": 46.831,
+      "start_frame": 1400,
+      "end_frame": 1405,
+      "line": 10,
+      "s": 46.65,
+      "e": 46.831
+    },
+    {
+      "w": "Unluckily,",
+      "start": 47.151,
+      "end": 47.592,
+      "start_frame": 1415,
+      "end_frame": 1428,
+      "line": 11,
+      "s": 47.151,
+      "e": 47.592
+    },
+    {
+      "w": "the",
+      "start": 47.641,
+      "end": 47.808,
+      "start_frame": 1429,
+      "end_frame": 1434,
+      "line": 11,
+      "s": 47.641,
+      "e": 47.808
+    },
+    {
+      "w": "wave",
+      "start": 47.827,
+      "end": 48.028,
+      "start_frame": 1435,
+      "end_frame": 1441,
+      "line": 11,
+      "s": 47.827,
+      "e": 48.028
+    },
+    {
+      "w": "was",
+      "start": 48.05,
+      "end": 48.217,
+      "start_frame": 1441,
+      "end_frame": 1447,
+      "line": 11,
+      "s": 48.05,
+      "e": 48.217
+    },
+    {
+      "w": "fifteen",
+      "start": 48.236,
+      "end": 48.536,
+      "start_frame": 1447,
+      "end_frame": 1456,
+      "line": 11,
+      "s": 48.236,
+      "e": 48.536
+    },
+    {
+      "w": "feet",
+      "start": 48.57,
+      "end": 48.77,
+      "start_frame": 1457,
+      "end_frame": 1463,
+      "line": 11,
+      "s": 48.57,
+      "e": 48.77
+    },
+    {
+      "w": "tall",
+      "start": 48.793,
+      "end": 48.993,
+      "start_frame": 1464,
+      "end_frame": 1470,
+      "line": 11,
+      "s": 48.793,
+      "e": 48.993
+    },
+    {
+      "w": "and",
+      "start": 49.016,
+      "end": 49.183,
+      "start_frame": 1470,
+      "end_frame": 1475,
+      "line": 11,
+      "s": 49.016,
+      "e": 49.183
+    },
+    {
+      "w": "moving",
+      "start": 49.201,
+      "end": 49.469,
+      "start_frame": 1476,
+      "end_frame": 1484,
+      "line": 11,
+      "s": 49.201,
+      "e": 49.469
+    },
+    {
+      "w": "at",
+      "start": 49.498,
+      "end": 49.632,
+      "start_frame": 1485,
+      "end_frame": 1489,
+      "line": 11,
+      "s": 49.498,
+      "e": 49.632
+    },
+    {
+      "w": "thirty",
+      "start": 49.647,
+      "end": 49.914,
+      "start_frame": 1489,
+      "end_frame": 1497,
+      "line": 11,
+      "s": 49.647,
+      "e": 49.914
+    },
+    {
+      "w": "miles",
+      "start": 49.944,
+      "end": 50.178,
+      "start_frame": 1498,
+      "end_frame": 1505,
+      "line": 11,
+      "s": 49.944,
+      "e": 50.178
+    },
+    {
+      "w": "an",
+      "start": 50.204,
+      "end": 50.338,
+      "start_frame": 1506,
+      "end_frame": 1510,
+      "line": 11,
+      "s": 50.204,
+      "e": 50.338
+    },
+    {
+      "w": "hour.",
+      "start": 50.353,
+      "end": 50.553,
+      "start_frame": 1511,
+      "end_frame": 1517,
+      "line": 11,
+      "s": 50.353,
+      "e": 50.553
+    },
+    {
+      "w": "Locals",
+      "start": 51.026,
+      "end": 51.277,
+      "start_frame": 1531,
+      "end_frame": 1538,
+      "line": 12,
+      "s": 51.026,
+      "e": 51.277
+    },
+    {
+      "w": "rushed",
+      "start": 51.305,
+      "end": 51.557,
+      "start_frame": 1539,
+      "end_frame": 1547,
+      "line": 12,
+      "s": 51.305,
+      "e": 51.557
+    },
+    {
+      "w": "outside",
+      "start": 51.585,
+      "end": 51.868,
+      "start_frame": 1548,
+      "end_frame": 1556,
+      "line": 12,
+      "s": 51.585,
+      "e": 51.868
+    },
+    {
+      "w": "with",
+      "start": 51.9,
+      "end": 52.088,
+      "start_frame": 1557,
+      "end_frame": 1563,
+      "line": 12,
+      "s": 51.9,
+      "e": 52.088
+    },
+    {
+      "w": "pots,",
+      "start": 52.109,
+      "end": 52.367,
+      "start_frame": 1563,
+      "end_frame": 1571,
+      "line": 12,
+      "s": 52.109,
+      "e": 52.367
+    },
+    {
+      "w": "kettles,",
+      "start": 52.396,
+      "end": 52.749,
+      "start_frame": 1572,
+      "end_frame": 1582,
+      "line": 12,
+      "s": 52.396,
+      "e": 52.749
+    },
+    {
+      "w": "and",
+      "start": 52.788,
+      "end": 52.945,
+      "start_frame": 1584,
+      "end_frame": 1588,
+      "line": 12,
+      "s": 52.788,
+      "e": 52.945
+    },
+    {
+      "w": "teacups,",
+      "start": 52.962,
+      "end": 53.315,
+      "start_frame": 1589,
+      "end_frame": 1599,
+      "line": 12,
+      "s": 52.962,
+      "e": 53.315
+    },
+    {
+      "w": "scooping",
+      "start": 53.354,
+      "end": 53.669,
+      "start_frame": 1601,
+      "end_frame": 1610,
+      "line": 12,
+      "s": 53.354,
+      "e": 53.669
+    },
+    {
+      "w": "up",
+      "start": 53.704,
+      "end": 53.83,
+      "start_frame": 1611,
+      "end_frame": 1615,
+      "line": 12,
+      "s": 53.704,
+      "e": 53.83
+    },
+    {
+      "w": "pints",
+      "start": 53.844,
+      "end": 54.064,
+      "start_frame": 1615,
+      "end_frame": 1622,
+      "line": 12,
+      "s": 53.844,
+      "e": 54.064
+    },
+    {
+      "w": "straight",
+      "start": 54.088,
+      "end": 54.403,
+      "start_frame": 1623,
+      "end_frame": 1632,
+      "line": 12,
+      "s": 54.088,
+      "e": 54.403
+    },
+    {
+      "w": "from",
+      "start": 54.438,
+      "end": 54.627,
+      "start_frame": 1633,
+      "end_frame": 1639,
+      "line": 12,
+      "s": 54.438,
+      "e": 54.627
+    },
+    {
+      "w": "the",
+      "start": 54.648,
+      "end": 54.805,
+      "start_frame": 1639,
+      "end_frame": 1644,
+      "line": 12,
+      "s": 54.648,
+      "e": 54.805
+    },
+    {
+      "w": "road.",
+      "start": 54.822,
+      "end": 55.011,
+      "start_frame": 1645,
+      "end_frame": 1650,
+      "line": 12,
+      "s": 54.822,
+      "e": 55.011
+    },
+    {
+      "w": "In",
+      "start": 55.332,
+      "end": 55.473,
+      "start_frame": 1660,
+      "end_frame": 1664,
+      "line": 13,
+      "s": 55.332,
+      "e": 55.473
+    },
+    {
+      "w": "court,",
+      "start": 55.488,
+      "end": 55.811,
+      "start_frame": 1665,
+      "end_frame": 1674,
+      "line": 13,
+      "s": 55.488,
+      "e": 55.811
+    },
+    {
+      "w": "a",
+      "start": 55.847,
+      "end": 55.952,
+      "start_frame": 1675,
+      "end_frame": 1679,
+      "line": 13,
+      "s": 55.847,
+      "e": 55.952
+    },
+    {
+      "w": "judge",
+      "start": 55.964,
+      "end": 56.21,
+      "start_frame": 1679,
+      "end_frame": 1686,
+      "line": 13,
+      "s": 55.964,
+      "e": 56.21
+    },
+    {
+      "w": "officially",
+      "start": 56.237,
+      "end": 56.658,
+      "start_frame": 1687,
+      "end_frame": 1700,
+      "line": 13,
+      "s": 56.237,
+      "e": 56.658
+    },
+    {
+      "w": "ruled",
+      "start": 56.705,
+      "end": 56.951,
+      "start_frame": 1701,
+      "end_frame": 1709,
+      "line": 13,
+      "s": 56.705,
+      "e": 56.951
+    },
+    {
+      "w": "the",
+      "start": 56.978,
+      "end": 57.153,
+      "start_frame": 1709,
+      "end_frame": 1715,
+      "line": 13,
+      "s": 56.978,
+      "e": 57.153
+    },
+    {
+      "w": "flood",
+      "start": 57.173,
+      "end": 57.418,
+      "start_frame": 1715,
+      "end_frame": 1723,
+      "line": 13,
+      "s": 57.173,
+      "e": 57.418
+    },
+    {
+      "w": "an",
+      "start": 57.446,
+      "end": 57.586,
+      "start_frame": 1723,
+      "end_frame": 1728,
+      "line": 13,
+      "s": 57.446,
+      "e": 57.586
+    },
+    {
+      "w": "'Act",
+      "start": 57.602,
+      "end": 57.777,
+      "start_frame": 1728,
+      "end_frame": 1733,
+      "line": 13,
+      "s": 57.602,
+      "e": 57.777
+    },
+    {
+      "w": "of",
+      "start": 57.797,
+      "end": 57.937,
+      "start_frame": 1734,
+      "end_frame": 1738,
+      "line": 13,
+      "s": 57.797,
+      "e": 57.937
+    },
+    {
+      "w": "God',",
+      "start": 57.953,
+      "end": 58.205,
+      "start_frame": 1739,
+      "end_frame": 1746,
+      "line": 13,
+      "s": 57.953,
+      "e": 58.205
+    },
+    {
+      "w": "and",
+      "start": 58.234,
+      "end": 58.409,
+      "start_frame": 1747,
+      "end_frame": 1752,
+      "line": 13,
+      "s": 58.234,
+      "e": 58.409
+    },
+    {
+      "w": "Parliament",
+      "start": 58.429,
+      "end": 58.85,
+      "start_frame": 1753,
+      "end_frame": 1765,
+      "line": 13,
+      "s": 58.429,
+      "e": 58.85
+    },
+    {
+      "w": "even",
+      "start": 58.896,
+      "end": 59.107,
+      "start_frame": 1767,
+      "end_frame": 1773,
+      "line": 13,
+      "s": 58.896,
+      "e": 59.107
+    },
+    {
+      "w": "gave",
+      "start": 59.13,
+      "end": 59.341,
+      "start_frame": 1774,
+      "end_frame": 1780,
+      "line": 13,
+      "s": 59.13,
+      "e": 59.341
+    },
+    {
+      "w": "the",
+      "start": 59.364,
+      "end": 59.54,
+      "start_frame": 1781,
+      "end_frame": 1786,
+      "line": 13,
+      "s": 59.364,
+      "e": 59.54
+    },
+    {
+      "w": "brewery",
+      "start": 59.559,
+      "end": 59.875,
+      "start_frame": 1787,
+      "end_frame": 1796,
+      "line": 13,
+      "s": 59.559,
+      "e": 59.875
+    },
+    {
+      "w": "a",
+      "start": 59.91,
+      "end": 60.016,
+      "start_frame": 1797,
+      "end_frame": 1800,
+      "line": 13,
+      "s": 59.91,
+      "e": 60.016
+    },
+    {
+      "w": "tax",
+      "start": 60.027,
+      "end": 60.203,
+      "start_frame": 1801,
+      "end_frame": 1806,
+      "line": 13,
+      "s": 60.027,
+      "e": 60.203
+    },
+    {
+      "w": "refund",
+      "start": 60.222,
+      "end": 60.503,
+      "start_frame": 1807,
+      "end_frame": 1815,
+      "line": 13,
+      "s": 60.222,
+      "e": 60.503
+    },
+    {
+      "w": "for",
+      "start": 60.534,
+      "end": 60.71,
+      "start_frame": 1816,
+      "end_frame": 1821,
+      "line": 13,
+      "s": 60.534,
+      "e": 60.71
+    },
+    {
+      "w": "the",
+      "start": 60.729,
+      "end": 60.905,
+      "start_frame": 1822,
+      "end_frame": 1827,
+      "line": 13,
+      "s": 60.729,
+      "e": 60.905
+    },
+    {
+      "w": "lost",
+      "start": 60.924,
+      "end": 61.135,
+      "start_frame": 1828,
+      "end_frame": 1834,
+      "line": 13,
+      "s": 60.924,
+      "e": 61.135
+    },
+    {
+      "w": "alcohol.",
+      "start": 61.158,
+      "end": 61.474,
+      "start_frame": 1835,
+      "end_frame": 1844,
+      "line": 13,
+      "s": 61.158,
+      "e": 61.474
+    },
+    {
+      "w": "It",
+      "start": 61.809,
+      "end": 61.947,
+      "start_frame": 1854,
+      "end_frame": 1858,
+      "line": 14,
+      "s": 61.809,
+      "e": 61.947
+    },
+    {
+      "w": "ended",
+      "start": 61.962,
+      "end": 62.203,
+      "start_frame": 1859,
+      "end_frame": 1866,
+      "line": 14,
+      "s": 61.962,
+      "e": 62.203
+    },
+    {
+      "w": "giant",
+      "start": 62.23,
+      "end": 62.471,
+      "start_frame": 1867,
+      "end_frame": 1874,
+      "line": 14,
+      "s": 62.23,
+      "e": 62.471
+    },
+    {
+      "w": "wooden",
+      "start": 62.498,
+      "end": 62.773,
+      "start_frame": 1875,
+      "end_frame": 1883,
+      "line": 14,
+      "s": 62.498,
+      "e": 62.773
+    },
+    {
+      "w": "vats",
+      "start": 62.803,
+      "end": 63.01,
+      "start_frame": 1884,
+      "end_frame": 1890,
+      "line": 14,
+      "s": 62.803,
+      "e": 63.01
+    },
+    {
+      "w": "forever,",
+      "start": 63.033,
+      "end": 63.418,
+      "start_frame": 1891,
+      "end_frame": 1903,
+      "line": 14,
+      "s": 63.033,
+      "e": 63.418
+    },
+    {
+      "w": "forcing",
+      "start": 63.461,
+      "end": 63.771,
+      "start_frame": 1904,
+      "end_frame": 1913,
+      "line": 14,
+      "s": 63.461,
+      "e": 63.771
+    },
+    {
+      "w": "breweries",
+      "start": 63.805,
+      "end": 64.184,
+      "start_frame": 1914,
+      "end_frame": 1926,
+      "line": 14,
+      "s": 63.805,
+      "e": 64.184
+    },
+    {
+      "w": "to",
+      "start": 64.226,
+      "end": 64.363,
+      "start_frame": 1927,
+      "end_frame": 1931,
+      "line": 14,
+      "s": 64.226,
+      "e": 64.363
+    },
+    {
+      "w": "switch",
+      "start": 64.379,
+      "end": 64.654,
+      "start_frame": 1931,
+      "end_frame": 1940,
+      "line": 14,
+      "s": 64.379,
+      "e": 64.654
+    },
+    {
+      "w": "to",
+      "start": 64.685,
+      "end": 64.822,
+      "start_frame": 1941,
+      "end_frame": 1945,
+      "line": 14,
+      "s": 64.685,
+      "e": 64.822
+    },
+    {
+      "w": "steel.",
+      "start": 64.838,
+      "end": 65.079,
+      "start_frame": 1945,
+      "end_frame": 1952,
+      "line": 14,
+      "s": 64.838,
+      "e": 65.079
+    },
+    {
+      "w": "So",
+      "start": 65.405,
+      "end": 65.529,
+      "start_frame": 1962,
+      "end_frame": 1966,
+      "line": 15,
+      "s": 65.405,
+      "e": 65.529
+    },
+    {
+      "w": "if",
+      "start": 65.543,
+      "end": 65.666,
+      "start_frame": 1966,
+      "end_frame": 1970,
+      "line": 15,
+      "s": 65.543,
+      "e": 65.666
+    },
+    {
+      "w": "you",
+      "start": 65.68,
+      "end": 65.834,
+      "start_frame": 1970,
+      "end_frame": 1975,
+      "line": 15,
+      "s": 65.68,
+      "e": 65.834
+    },
+    {
+      "w": "ever",
+      "start": 65.851,
+      "end": 66.037,
+      "start_frame": 1976,
+      "end_frame": 1981,
+      "line": 15,
+      "s": 65.851,
+      "e": 66.037
+    },
+    {
+      "w": "see",
+      "start": 66.057,
+      "end": 66.212,
+      "start_frame": 1982,
+      "end_frame": 1986,
+      "line": 15,
+      "s": 66.057,
+      "e": 66.212
+    },
+    {
+      "w": "a",
+      "start": 66.229,
+      "end": 66.322,
+      "start_frame": 1987,
+      "end_frame": 1990,
+      "line": 15,
+      "s": 66.229,
+      "e": 66.322
+    },
+    {
+      "w": "seven-hundred-pound",
+      "start": 66.332,
+      "end": 66.919,
+      "start_frame": 1990,
+      "end_frame": 2008,
+      "line": 15,
+      "s": 66.332,
+      "e": 66.919
+    },
+    {
+      "w": "metal",
+      "start": 66.984,
+      "end": 67.2,
+      "start_frame": 2010,
+      "end_frame": 2016,
+      "line": 15,
+      "s": 66.984,
+      "e": 67.2
+    },
+    {
+      "w": "ring",
+      "start": 67.224,
+      "end": 67.409,
+      "start_frame": 2017,
+      "end_frame": 2022,
+      "line": 15,
+      "s": 67.224,
+      "e": 67.409
+    },
+    {
+      "w": "pop",
+      "start": 67.43,
+      "end": 67.584,
+      "start_frame": 2023,
+      "end_frame": 2028,
+      "line": 15,
+      "s": 67.43,
+      "e": 67.584
+    },
+    {
+      "w": "off",
+      "start": 67.602,
+      "end": 67.756,
+      "start_frame": 2028,
+      "end_frame": 2033,
+      "line": 15,
+      "s": 67.602,
+      "e": 67.756
+    },
+    {
+      "w": "a",
+      "start": 67.773,
+      "end": 67.866,
+      "start_frame": 2033,
+      "end_frame": 2036,
+      "line": 15,
+      "s": 67.773,
+      "e": 67.866
+    },
+    {
+      "w": "barrel,",
+      "start": 67.876,
+      "end": 68.191,
+      "start_frame": 2036,
+      "end_frame": 2046,
+      "line": 15,
+      "s": 67.876,
+      "e": 68.191
+    },
+    {
+      "w": "maybe",
+      "start": 68.226,
+      "end": 68.442,
+      "start_frame": 2047,
+      "end_frame": 2053,
+      "line": 15,
+      "s": 68.226,
+      "e": 68.442
+    },
+    {
+      "w": "don't",
+      "start": 68.466,
+      "end": 68.652,
+      "start_frame": 2054,
+      "end_frame": 2060,
+      "line": 15,
+      "s": 68.466,
+      "e": 68.652
+    },
+    {
+      "w": "just",
+      "start": 68.672,
+      "end": 68.858,
+      "start_frame": 2060,
+      "end_frame": 2066,
+      "line": 15,
+      "s": 68.672,
+      "e": 68.858
+    },
+    {
+      "w": "leave",
+      "start": 68.878,
+      "end": 69.094,
+      "start_frame": 2066,
+      "end_frame": 2073,
+      "line": 15,
+      "s": 68.878,
+      "e": 69.094
+    },
+    {
+      "w": "a",
+      "start": 69.118,
+      "end": 69.211,
+      "start_frame": 2074,
+      "end_frame": 2076,
+      "line": 15,
+      "s": 69.118,
+      "e": 69.211
+    },
+    {
+      "w": "note.",
+      "start": 69.221,
+      "end": 69.407,
+      "start_frame": 2077,
+      "end_frame": 2082,
+      "line": 15,
+      "s": 69.221,
+      "e": 69.407
+    }
+  ]
+}

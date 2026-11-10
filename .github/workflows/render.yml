@@ -1,0 +1,62 @@
+name: Render 3D Animation (London Beer Flood 1814)
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install system dependencies (FFmpeg & Xvfb)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg xvfb
+
+      - name: Install npm dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Verify Master Audio Mix exists
+        run: |
+          ls -lh public/audio/mix.wav
+          test -f public/audio/mix.wav
+
+      - name: Render Remotion Video with SwiftShader
+        run: |
+          mkdir -p out
+          xvfb-run -a -s "-screen 0 1920x1080x24" npx remotion render src/index.ts BeerFlood out/raw_video.mp4 \
+            --gl=swiftshader \
+            --codec=h264 \
+            --crf=18 \
+            --concurrency=2 \
+            --overwrite
+
+      - name: Mux Master Audio & Finalize Video
+        run: |
+          ffmpeg -y -i out/raw_video.mp4 -i public/audio/mix.wav \
+            -map 0:v:0 -map 1:a:0 \
+            -c:v copy \
+            -c:a aac -b:a 320k \
+            -shortest \
+            out/final_beer_flood_1814.mp4
+          ls -lh out/final_beer_flood_1814.mp4
+
+      - name: Upload Rendered Video
+        uses: actions/upload-artifact@v4
+        with:
+          name: london-beer-flood-1814
+          path: out/final_beer_flood_1814.mp4
+          if-no-files-found: error
+          retention-days: 14
