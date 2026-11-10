@@ -39,6 +39,7 @@ jobs:
           xvfb-run -a -s "-screen 0 1920x1080x24" npx remotion still src/index.ts BeerFlood out/test_100.jpg \
             --frame=100 \
             --gl=swangle \
+            --timeout=180000 \
             --overwrite
           ls -lh out/test_100.jpg
 
@@ -46,6 +47,7 @@ jobs:
         run: |
           xvfb-run -a -s "-screen 0 1920x1080x24" npx remotion render src/index.ts BeerFlood out/raw_video.mp4 \
             --gl=swangle \
+            --timeout=180000 \
             --codec=h264 \
             --crf=18 \
             --concurrency=2 \
