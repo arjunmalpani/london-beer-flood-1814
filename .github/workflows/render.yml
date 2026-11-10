@@ -17,13 +17,13 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm'
 
-      - name: Install system dependencies (FFmpeg & Xvfb)
+      - name: Install system dependencies (FFmpeg, Xvfb & Mesa GL)
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg xvfb
+          sudo apt-get install -y ffmpeg xvfb libgl1-mesa-dri libgl1-mesa-glx libegl1-mesa || sudo apt-get install -y ffmpeg xvfb
 
       - name: Install npm dependencies
         run: npm install --legacy-peer-deps
@@ -33,11 +33,19 @@ jobs:
           ls -lh public/audio/mix.wav
           test -f public/audio/mix.wav
 
-      - name: Render Remotion Video with SwiftShader
+      - name: Test WebGL Still Render
         run: |
           mkdir -p out
+          xvfb-run -a -s "-screen 0 1920x1080x24" npx remotion still src/index.ts BeerFlood out/test_100.jpg \
+            --frame=100 \
+            --gl=swangle \
+            --overwrite
+          ls -lh out/test_100.jpg
+
+      - name: Render Remotion Video with SwANGLE
+        run: |
           xvfb-run -a -s "-screen 0 1920x1080x24" npx remotion render src/index.ts BeerFlood out/raw_video.mp4 \
-            --gl=swiftshader \
+            --gl=swangle \
             --codec=h264 \
             --crf=18 \
             --concurrency=2 \
