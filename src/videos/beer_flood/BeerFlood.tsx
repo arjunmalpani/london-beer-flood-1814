@@ -25,9 +25,18 @@ export const BEER_FLOOD_FRAMES = 2092;
 export const BeerFloodShort: React.FC = () => <BridgeShort />;
 
 
-/** A/B switches for test stills only (Remotion inputProps `{ post: { ink: false, ... } }`); everything is on by default. */
+/** A/B switches for test stills & benchmarks (Remotion inputProps `{ post: { ink: true, bloom: true, ... } }`);
+ * Defaults optimized for fast cloud GPU render per performance audit (shadows 1024, grade ON, tone mapping ON). */
 type PostToggles = { ink: boolean; lens: boolean; pre: boolean; bloom: boolean; grade: boolean; grain: boolean };
-const toggles = (): PostToggles => ({ ink: true, lens: false, pre: false, bloom: true, grade: true, grain: false, ...((getInputProps() as { post?: Partial<PostToggles> }).post ?? {}) });
+const toggles = (): PostToggles => ({
+  ink: false,   // benchmark / fast render default (enable with props.post.ink: true)
+  lens: false,  // 112-tap thin-lens blur disabled
+  pre: false,
+  bloom: false, // benchmark / fast render default (enable with props.post.bloom: true)
+  grade: true,  // color grade active
+  grain: false,
+  ...((getInputProps() as { post?: Partial<PostToggles> }).post ?? {})
+});
 
 /** Bloom for emissive sources only (depth.md 6.4). Its MIP chain always starts at 540x960 (half of 1080x1920),
  *  whatever the output size, so the glow keeps the same size relative to the frame (e-fold ~30 px at 1080p,

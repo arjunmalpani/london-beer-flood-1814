@@ -1,5 +1,5 @@
 import React from "react";
-import { Composition, staticFile, Audio } from "remotion";
+import { Composition } from "remotion";
 import { BeerFloodShort, BEER_FLOOD_FRAMES } from "./videos/beer_flood/BeerFlood";
 
 export const Root: React.FC = () => {
@@ -7,12 +7,7 @@ export const Root: React.FC = () => {
     <>
       <Composition
         id="BeerFlood"
-        component={() => (
-          <>
-            <BeerFloodShort />
-            <Audio src={staticFile("audio/mix.wav")} />
-          </>
-        )}
+        component={BeerFloodShort}
         durationInFrames={BEER_FLOOD_FRAMES}
         fps={30}
         width={1080}
